@@ -27,7 +27,7 @@ class StreamViewController: AVPlayerViewController {
     }
     
     @objc private func closeView() {
-        self.dismiss(animated: true, completion: nil)
+       // self.dismiss(animated: true, completion: nil)
     }
 
     

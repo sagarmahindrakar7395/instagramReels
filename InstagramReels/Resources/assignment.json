@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Trending",
+    "nodes": [
+      {
+        "video": {
+          "encodeUrl": "https://res.cloudinary.com/byosocial/video/upload/q_60/v1576476056/OnBoardingScreens/launch_onboarding_1.mp4"
+        }
+      },
+      {
+        "video": {
+          "encodeUrl": "https://res.cloudinary.com/byosocial/video/upload/q_60/v1576476055/OnBoardingScreens/launch_onboarding_2.mp4"
+        }
+      },
+      {
+        "video": {
+          "encodeUrl": "https://res.cloudinary.com/byosocial/video/upload/q_60/v1576476055/OnBoardingScreens/launch_onboarding_3.mp4"
+        }
+      },
+      {
+        "video": {
+          "encodeUrl": "https://res.cloudinary.com/byosocial/video/upload/q_60/v1576476056/OnBoardingScreens/launch_onboarding_4.mp4"
+        }
+      }
+    ]
+  }
+]
